@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  13 JUL 2016 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  13 JUL 2016 21:20
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1169,7 +1169,7 @@ AED: lastpage setting LastPage
 Here is how much of TeX's memory you used:
  11441 strings out of 493335
  182320 string characters out of 3139261
- 497993 words of memory out of 3000000
+ 497991 words of memory out of 3000000
  14648 multiletter control sequences out of 15000+200000
  26889 words of font info for 97 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1190,7 +1190,7 @@ pe1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helv
 etic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
 vro8a.pfb>
-Output written on ProjetoCabeamento.pdf (10 pages, 1940093 bytes).
+Output written on ProjetoCabeamento.pdf (10 pages, 1940186 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
