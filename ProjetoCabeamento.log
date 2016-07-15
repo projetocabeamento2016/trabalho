@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  15 JUL 2016 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  15 JUL 2016 15:56
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1137,7 +1137,7 @@ Overfull \hbox (84.47485pt too wide) in paragraph at lines 247--252
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
 
-[6] (ProjetoCabeamento.bbl
+[6] (ProjetoCabeamento.bbl [7]
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1146,51 +1146,55 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 1.
 
-) (tab2.tex [7])
+) (tab2.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [8]
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 332.
+Package pdftex.def Info: fig1.png used on input line 343.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
- <fig2.png, id=42, 214.8025pt x 516.93124pt>
+ <fig2.png, id=45, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 
 <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 340.
+Package pdftex.def Info: fig2.png used on input line 351.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
- <fig3.jpg, id=43, 533.5935pt x 361.35pt>
+ <fig3.jpg, id=46, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 349.
+Package pdftex.def Info: fig3.jpg used on input line 360.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
 AED: lastpage setting LastPage
-[8] [9] [10 <./fig2.png>] [11 <./fig3.jpg>] (ProjetoCabeamento.aux) ) 
+[9] [10 <./fig2.png>] [11 <./fig3.jpg>] (ProjetoCabeamento.aux) ) 
 Here is how much of TeX's memory you used:
- 11452 strings out of 493335
- 182402 string characters out of 3139261
+ 11463 strings out of 493335
+ 182484 string characters out of 3139261
  497992 words of memory out of 3000000
- 14649 multiletter control sequences out of 15000+200000
- 27134 words of font info for 102 fonts, out of 3000000 for 9000
+ 14650 multiletter control sequences out of 15000+200000
+ 27379 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvet
-ic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (11 pages, 1942493 bytes).
+{C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvro8a.pfb>
+Output written on ProjetoCabeamento.pdf (11 pages, 1945173 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
