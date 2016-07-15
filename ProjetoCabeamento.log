@@ -1,30 +1,39 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  15 JUL 2016 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.27)  15 JUL 2016 16:08
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
-LaTeX2e <2016/03/31> patch level 1
+LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rartcl.cls"
 Document Class: scrartcl 2016/06/14 v3.21 KOMA-Script document class (article)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rkbase.sty"
 Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rbase.sty"
 Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyva
+l.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rlfile.sty"
 Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
 
 Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
+)))
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\to
+cbasic.sty"
 Package: tocbasic 2016/06/14 v3.21 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
@@ -47,11 +56,13 @@ Class scrartcl Info: You've used standard option `onecolumn'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2052.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\scrsize12pt.clo"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rsize12pt.clo"
 File: scrsize12pt.clo 2016/06/14 v3.21 KOMA-Script font size class option (12pt
 )
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\ty
+pearea.sty"
 Package: typearea 2016/06/14 v3.21 KOMA-Script package (type area)
 
 Package typearea, 2016/06/14 v3.21 KOMA-Script package (type area)
@@ -109,24 +120,31 @@ LaTeX Info: Redefining \textsubscript on input line 4036.
 \c@table=\count87
 Class scrartcl Info: Redefining `\numberline' on input line 5049.
 \bibindent=\dimen102
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+)
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.
+sty"
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count88
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+sty"
 Package: babel 2016/04/23 3.9r The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.
+cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\
+english.ldf"
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen103
@@ -135,7 +153,8 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\micr
+otype.sty"
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks15
 \MT@count=\count90
@@ -144,7 +163,8 @@ LaTeX Info: Redefining \textls on input line 774.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
 \MT@listname@count=\count91
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\micr
+otype-pdftex.def"
 File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 916.
@@ -153,27 +173,34 @@ LaTeX Info: Redefining \lslig on input line 916.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\micr
+otype.cfg"
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmat
+h.sty"
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip56
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstex
+t.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen
+.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen105
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy
+.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen106
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn
+.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
@@ -214,14 +241,16 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfo
+nts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.
+sty"
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks21
 \thm@bodyfont=\toks22
@@ -233,27 +262,34 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip61
 \dth@everypar=\toks26
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+icx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+ics.sty"
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.
+sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graph
+ics.cfg"
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdf
+tex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\inf
+warerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltx
+cmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count104
@@ -261,10 +297,12 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.
+sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -278,13 +316,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\svgnam.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\svgnam.
+def"
 File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\captio
+n.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\captio
+n3.sty"
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen116
@@ -298,28 +339,36 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 Package caption Info: KOMA-Script document class.
 \c@ContinuedFloat=\count105
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
+pdf.sty"
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
+pdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfex
+t.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvd
+efinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopt
+ions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvs
+etkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ete
+xcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifl
+uatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -328,11 +377,13 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdf
+texcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifp
+df.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -340,14 +391,13 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfig.
+sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@KVtest=\count106
 \sf@farskip=\skip62
@@ -363,7 +413,8 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \sf@top=\skip65
 \sf@bottom=\skip66
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\bookt
+abs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen124
 \lightrulewidth=\dimen125
@@ -383,25 +434,28 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count116
 \@thisrulewidth=\dimen136
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fix-cm.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fix-cm.st
+y"
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.de
+f"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.
+sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks27
 \inpenc@posthook=\toks28
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu
+"
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -638,7 +692,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.df
+u"
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -679,7 +734,8 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.df
+u"
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -695,7 +751,8 @@ Now handling font encoding U ...
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.df
+u"
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -778,14 +835,17 @@ File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geome
+try.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifv
+tex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxe
+tex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count117
@@ -801,42 +861,53 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen144
 \Gm@dimlist=\toks29
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\datetime\datetime.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geome
+try.cfg"))
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datet
+ime.sty"
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etool
+box.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count120
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fmtco
+unt.sty"
 Package: fmtcount 2015/05/05 v3.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.st
+y"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyva
+l.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkey
+val.tex"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvu
+tils.tex"
 \XKV@toks=\toks30
 \XKV@tempa@toks=\toks31
 )
 \XKV@depth=\count121
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcpre
+fix.sty"
 Package: fcprefix 2012/09/28
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcnum
+parser.sty"
 Package: fcnumparser 2012/09/28
 \fc@digit@counter=\count122
 ))
 \c@padzeroesN=\count123
 \fc@tmpcatcode=\count124
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fc-en
+glish.def"
 File: fc-english.def 2013/08/17
 )
 \@DT@modctr=\count125
@@ -847,7 +918,8 @@ File: fc-english.def 2013/08/17
 \@DT@loopN=\count130
 \@DT@X=\count131
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datet
+ime-defaults.sty"
 Package: datetime-defaults 2013/09/10
 )
 \@day=\count132
@@ -870,7 +942,9 @@ put line 308.
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty"
+)
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectst
+y.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
@@ -882,7 +956,9 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 (scrartcl)              Nevertheless, using requested
 (scrartcl)              package `fancyhdr' on input line 48.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancy
+hdr.sty"
 \fancy@headwidth=\skip67
 \f@ncyO@elh=\skip68
 \f@ncyO@erh=\skip69
@@ -893,10 +969,12 @@ Class scrartcl Warning: Usage of package `fancyhdr' together
 \f@ncyO@olf=\skip74
 \f@ncyO@orf=\skip75
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastp
+age.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lettrine\lettrine.sty"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lettrine\lettr
+ine.sty"
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 \c@DefaultLines=\count147
 \c@DefaultDepth=\count148
@@ -922,14 +1000,16 @@ File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 \LettrineDepth=\dimen160
 
 Loading lettrine.cfg
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lettrine\lettrine.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titling\titling.sty"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lettrine\lettr
+ine.cfg"))
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titling\titlin
+g.sty"
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip76
 \thanksmargin=\skip77
 \droptitle=\skip78
-)
-(ProjetoCabeamento.aux)
+) (ProjetoCabeamento.aux)
 \openout1 = `ProjetoCabeamento.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
@@ -957,11 +1037,13 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-c
+mr.cfg"
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pd
+f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count151
 \scratchdimen=\dimen161
@@ -1018,7 +1100,9 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             ! on input line 122.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 123.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1phv.
+fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 Package microtype Info: Loading generic settings for font family
@@ -1029,8 +1113,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-<utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
+ <utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
 File: utfpr.jpeg Graphic file (type jpg)
  <use utfpr.jpeg>
 Package pdftex.def Info: utfpr.jpeg used on input line 143.
@@ -1038,7 +1121,8 @@ Package pdftex.def Info: utfpr.jpeg used on input line 143.
  [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr.jpeg>]
+{C:/Users/JoaoPedro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr
+.jpeg>]
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1052,18 +1136,22 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 15
 (ProjetoCabeamento.lof
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
+fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-m
+sa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.
+fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-m
+sb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@lof=\write3
@@ -1091,7 +1179,8 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+("C:\Users\JoaoPedro\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1171,30 +1260,33 @@ Package pdftex.def Info: fig3.jpg used on input line 360.
 AED: lastpage setting LastPage
 [9] [10 <./fig2.png>] [11 <./fig3.jpg>] (ProjetoCabeamento.aux) ) 
 Here is how much of TeX's memory you used:
- 11463 strings out of 493335
- 182484 string characters out of 3139261
- 497992 words of memory out of 3000000
- 14650 multiletter control sequences out of 15000+200000
+ 11455 strings out of 493335
+ 186000 string characters out of 3128498
+ 497890 words of memory out of 3000000
+ 14645 multiletter control sequences out of 15000+200000
  27379 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/u
-hvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (11 pages, 1945173 bytes).
+{C:/Users/Joao
+Pedro/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Use
+rs/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/JoaoPedro/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JoaoPed
+ro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmss17.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JoaoPedro/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/
+JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
+12.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/JoaoPedro/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/JoaoPedro/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on ProjetoCabeamento.pdf (11 pages, 1947308 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
