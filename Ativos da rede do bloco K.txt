@@ -1,0 +1,31 @@
+Ativos da rede do bloco K:
+
+
+*07 switches 3Com 3CR17561-91 SuperStack 4500 26-Port
+*01 switch HP V1910-24G, modelo JE006A
+*01 switch HP A3600 Series, modelo JG301B - Switch destinado apenas aos pontos de rede das câmeras IP e aos dois Access Points. Esse switch é POE.
+
+*10 patch panels Furukawa 3CAT 6
+*16 organizadores de cabo para rack, DN Conectividade.
+*01 Rack Attic
+
+________________________________________________________________________________________________________________________
+
+Levantamento dos pontos de rede do bloco K
+
+K001 - 12 pontos para máquinas de alunos e 1 para o professor, 1 ponto para câmera ip
+K002 - 7 pontos para máquinas dos professores, 1 ponto para câmera ip
+K003 - 7 pontos para máquinas dos professores, 1 ponto para câmera ip
+K004 - 7 pontos para máquinas dos professores, 1 ponto para câmera ip
+Sala Secretários - 2 pontos de rede, 1 ponto para câmera ip
+K005 - 13 pontos antigos, futuramente será igual a K001, 1 ponto para câmera ip
+K006 - 12 pontos antigos para 3 professores. Antiga sala de pesquisa., 1 ponto para câmera ip
+K007 - Servidor de impressão, 8 pontos de rede sendo 2 pontos de professores e 2 pontos de impressora, 1 ponto para câmera ip
+K008 - 25 pontos de rede e máquinas, 1 ponto para câmera ip
+K009 - 25 pontos de rede e máquinas, 1 ponto para câmera ip
+Corredor: 2 pontos para câmera e 2 pontos para wifi
+
+________________________________________________________________________________________________________________________
+
+Observação: O chicote de cabos que sai pela parte de cima do rack vai para as salas K001, 2, 3, 4 e sala dos secretários (lado direitro e centro do bloco, olhando do ponto de vista da entrada do bloco), passando por canaletas no alto. O chicote de cabos que sai debaixo do rack vai para as salas K005, 6, 7, 8 e 9, numa canaleta que passa pela parede dessas salas.
+
