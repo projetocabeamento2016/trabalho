@@ -16,14 +16,14 @@
 \contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{6}
 \contentsline {section}{\numberline {7}Plano de certifica\IeC {\c c}\IeC {\~a}o}{6}
 \contentsline {section}{\numberline {8}Plano de manuten\IeC {\c c}\IeC {\~a}o}{7}
-\contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{7}
-\contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{7}
+\contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{8}
+\contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{8}
 \contentsline {subsection}{\numberline {8.3}Equipe de suporte}{8}
 \contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{8}
 \contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{8}
 \contentsline {section}{\numberline {10}Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{8}
-\contentsline {section}{\numberline {11}Elementos textuais - Alguns exemplos}{8}
+\contentsline {section}{\numberline {11}Elementos textuais - Alguns exemplos}{9}
 \contentsline {subsection}{\numberline {11.1}Colocar elementos em itens}{9}
 \contentsline {subsubsection}{\numberline {11.1.1}Uma sub se\IeC {\c c}ao de terceiro nivel}{9}
 \contentsline {subsection}{\numberline {11.2}Tabelas}{9}
-\contentsline {subsection}{\numberline {11.3}Figuras}{9}
+\contentsline {subsection}{\numberline {11.3}Figuras}{10}
