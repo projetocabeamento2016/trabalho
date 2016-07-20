@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  20 JUL 2016 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  20 JUL 2016 15:15
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1036,7 +1036,7 @@ Package microtype Info: Loading generic settings for font family
 <utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
 File: utfpr.jpeg Graphic file (type jpg)
  <use utfpr.jpeg>
-Package pdftex.def Info: utfpr.jpeg used on input line 143.
+Package pdftex.def Info: utfpr.jpeg used on input line 141.
 (pdftex.def)             Requested size: 97.3635pt x 35.13115pt.
  [1
 
@@ -1048,10 +1048,10 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 151.
+ne 149.
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 15
-1.
+Package tocbasic Info: character protrusion at lof deactivated on input line 14
+9.
 (ProjetoCabeamento.lof
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -1079,10 +1079,10 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 154.
+ne 152.
 
 Package tocbasic Info: character protrusion at lot deactivated on input line 15
-4.
+2.
 (ProjetoCabeamento.lot)
 \tf@lot=\write4
 \openout4 = `ProjetoCabeamento.lot'.
@@ -1091,14 +1091,14 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 159.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 157.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 159.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 157.
  [2
 
 ]
@@ -1108,10 +1108,10 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              from within a non compatible caller, that does not
 (scrartcl)              \scr@s@ct@@nn@m@ locally.
 (scrartcl)              This could result in several error messages on input li
-ne 161.
+ne 159.
 
-Package tocbasic Info: character protrusion at toc deactivated on input line 16
-1.
+Package tocbasic Info: character protrusion at toc deactivated on input line 15
+9.
 (ProjetoCabeamento.toc)
 \tf@toc=\write5
 \openout5 = `ProjetoCabeamento.toc'.
@@ -1120,7 +1120,7 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 16
 
 ]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 172.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 170.
  [4
 
 ] [5] (tab1.tex
@@ -1135,13 +1135,13 @@ Package pdftex.def Info: fig1.png used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
 )
 [6 <./fig1.png>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 271--276
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 268--273
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
 
 
-Overfull \hbox (3.18896pt too wide) in paragraph at lines 285--286
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 282--283
 []\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
@@ -1167,18 +1167,18 @@ ne 1.
 ) [9] (tab2.tex)
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 378.
+Package pdftex.def Info: fig1.png used on input line 375.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
  <fig2.png, id=48, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 
 <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 386.
+Package pdftex.def Info: fig2.png used on input line 383.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
  <fig3.jpg, id=49, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 395.
+Package pdftex.def Info: fig3.jpg used on input line 392.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
@@ -1211,7 +1211,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (13 pages, 1955963 bytes).
+Output written on ProjetoCabeamento.pdf (13 pages, 1956617 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
