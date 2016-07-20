@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  19 JUL 2016 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  20 JUL 2016 14:50
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1123,8 +1123,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 172.
  [4
 
-] (tab1.tex
-<fig1.png, id=26, 608.2725pt x 423.5825pt>
+] [5] (tab1.tex
+<fig1.png, id=29, 608.2725pt x 423.5825pt>
 File: fig1.png Graphic file (type png)
  <use fig1.png>
 Package pdftex.def Info: fig1.png used on input line 8.
@@ -1133,18 +1133,15 @@ File: fig1.png Graphic file (type png)
  <use fig1.png>
 Package pdftex.def Info: fig1.png used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [5]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 261--266
+)
+[6 <./fig1.png>]
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 271--276
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
 
-[6 <./fig1.png>]
-Overfull \hbox (3.18896pt too wide) in paragraph at lines 275--276
+
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 285--286
 []\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
@@ -1158,7 +1155,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 14.
 
-) [7] (ProjetoCabeamento.bbl
+) [7] [8] (ProjetoCabeamento.bbl
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1167,36 +1164,36 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 1.
 
-[8]) (tab2.tex) [9]
+) [9] (tab2.tex)
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 368.
+Package pdftex.def Info: fig1.png used on input line 378.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
  <fig2.png, id=48, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 
 <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 376.
+Package pdftex.def Info: fig2.png used on input line 386.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
  <fig3.jpg, id=49, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 385.
+Package pdftex.def Info: fig3.jpg used on input line 395.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
 AED: lastpage setting LastPage
-[10] [11 <./fig2.png>] [12 <./fig3.jpg>] (ProjetoCabeamento.aux)
+[10] [11] [12 <./fig2.png>] [13 <./fig3.jpg>] (ProjetoCabeamento.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11472 strings out of 493335
- 182606 string characters out of 3139261
- 499058 words of memory out of 3000000
- 14654 multiletter control sequences out of 15000+200000
- 27428 words of font info for 108 fonts, out of 3000000 for 9000
+ 11469 strings out of 493335
+ 182584 string characters out of 3139261
+ 501059 words of memory out of 3000000
+ 14655 multiletter control sequences out of 15000+200000
+ 27330 words of font info for 106 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
@@ -1214,9 +1211,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (12 pages, 1953613 bytes).
+Output written on ProjetoCabeamento.pdf (13 pages, 1955963 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  29205 words of extra memory for PDF output out of 29859 (max. 10000000)
 
