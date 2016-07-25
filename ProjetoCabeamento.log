@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  25 JUL 2016 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  25 JUL 2016 15:59
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1033,22 +1033,200 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-! I can't write on file `ProjetoCabeamento.pdf'.
-Please type another file name for output
-! Emergency stop.
-<argument> ...stobj \GPT@objref }}}\fi \pdfximage 
-                                                  \GPT@RuleAttr \ifx \GPT@pa...
-l.141 	\includegraphics{utfpr}
-                              
-*** (job aborted, file error in nonstop mode)
+<utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
+File: utfpr.jpeg Graphic file (type jpg)
+ <use utfpr.jpeg>
+Package pdftex.def Info: utfpr.jpeg used on input line 141.
+(pdftex.def)             Requested size: 97.3635pt x 35.13115pt.
+ [1
 
- 
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr.jpeg>]
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 149.
+
+Package tocbasic Info: character protrusion at lof deactivated on input line 14
+9.
+(ProjetoCabeamento.lof
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
+\tf@lof=\write3
+\openout3 = `ProjetoCabeamento.lof'.
+
+
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 152.
+
+Package tocbasic Info: character protrusion at lot deactivated on input line 15
+2.
+(ProjetoCabeamento.lot)
+\tf@lot=\write4
+\openout4 = `ProjetoCabeamento.lot'.
+
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 157.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 157.
+ [2
+
+]
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 159.
+
+Package tocbasic Info: character protrusion at toc deactivated on input line 15
+9.
+(ProjetoCabeamento.toc)
+\tf@toc=\write5
+\openout5 = `ProjetoCabeamento.toc'.
+
+ [3
+
+]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 170.
+ [4
+
+] [5] [6]
+<planta_atual2.jpg, id=32, 490.9542pt x 903.375pt>
+File: planta_atual2.jpg Graphic file (type jpg)
+ <use planta_atual2.jpg>
+Package pdftex.def Info: planta_atual2.jpg used on input line 269.
+(pdftex.def)             Requested size: 490.95299pt x 903.3728pt.
+
+Overfull \hbox (35.70882pt too wide) in paragraph at lines 269--270
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 225.18962pt on input line 270.
+
+(tab1.tex <fig1.png, id=33, 608.2725pt x 423.5825pt>
+File: fig1.png Graphic file (type png)
+ <use fig1.png>
+Package pdftex.def Info: fig1.png used on input line 8.
+(pdftex.def)             Requested size: 121.65234pt x 84.715pt.
+File: fig1.png Graphic file (type png)
+
+<use fig1.png>
+Package pdftex.def Info: fig1.png used on input line 9.
+(pdftex.def)             Requested size: 121.65234pt x 84.715pt.
+) [7 <./fig1.png>] [8 <./planta_atual2.jpg>]
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 300--305
+[]\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
+/, https://trello.com/, http://www.ganttproject.biz/,
+ []
+
+
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 314--315
+[]\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
+ex~oes cau-sadas por anoma-lias na imped^ancia
+ []
+
+(tab_horario.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 14.
+
+) [9] [10] (ProjetoCabeamento.bbl
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 1.
+
+) [11] (tab2.tex)
+File: fig1.png Graphic file (type png)
+ <use fig1.png>
+Package pdftex.def Info: fig1.png used on input line 407.
+(pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
+ <fig2.png, id=55, 214.8025pt x 516.93124pt>
+File: fig2.png Graphic file (type png)
+
+<use fig2.png>
+Package pdftex.def Info: fig2.png used on input line 415.
+(pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
+ <fig3.jpg, id=56, 533.5935pt x 361.35pt>
+File: fig3.jpg Graphic file (type jpg)
+ <use fig3.jpg>
+Package pdftex.def Info: fig3.jpg used on input line 424.
+(pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
+
+
+AED: lastpage setting LastPage
+[12] [13] [14 <./fig2.png>] [15 <./fig3.jpg>] (ProjetoCabeamento.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 11136 strings out of 493335
- 177712 string characters out of 3139261
- 494092 words of memory out of 3000000
- 14468 multiletter control sequences out of 15000+200000
- 8479 words of font info for 31 fonts, out of 3000000 for 9000
+ 11478 strings out of 493335
+ 182718 string characters out of 3139261
+ 502092 words of memory out of 3000000
+ 14659 multiletter control sequences out of 15000+200000
+ 27428 words of font info for 108 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,4n,54p,8830b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 54i,13n,77p,8830b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvro8a.pfb>
+Output written on ProjetoCabeamento.pdf (15 pages, 2485903 bytes).
+PDF statistics:
+ 116 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 29210 words of extra memory for PDF output out of 29859 (max. 10000000)
+
