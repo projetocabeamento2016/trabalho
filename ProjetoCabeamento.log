@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  26 JUL 2016 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  26 JUL 2016 14:48
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1237,7 +1237,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  11507 strings out of 493335
  183223 string characters out of 3139261
- 502092 words of memory out of 3000000
+ 502084 words of memory out of 3000000
  14679 multiletter control sequences out of 15000+200000
  27526 words of font info for 110 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1257,7 +1257,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (17 pages, 2562952 bytes).
+Output written on ProjetoCabeamento.pdf (17 pages, 2562880 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
