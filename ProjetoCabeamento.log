@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  26 JUL 2016 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  26 JUL 2016 13:57
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1180,7 +1180,10 @@ File: rotulador_1.jpg Graphic file (type jpg)
 Package pdftex.def Info: rotulador_1.jpg used on input line 354.
 (pdftex.def)             Requested size: 155.8318pt x 212.2926pt.
 
-[10 <./patch_cord_cat6_1.jpg> <./rotulador_1.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./patch_cord_cat6_1.jpg>]
 Overfull \hbox (84.47485pt too wide) in paragraph at lines 372--377
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
@@ -1192,7 +1195,7 @@ Overfull \hbox (3.18896pt too wide) in paragraph at lines 386--387
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
 
-(tab_horario.tex
+[11 <./rotulador_1.jpg>] (tab_horario.tex
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 1.
@@ -1201,7 +1204,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 14.
 
-) [11] [12] (ProjetoCabeamento.bbl
+) [12] (ProjetoCabeamento.bbl
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1237,7 +1240,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  11507 strings out of 493335
  183223 string characters out of 3139261
- 501092 words of memory out of 3000000
+ 499092 words of memory out of 3000000
  14679 multiletter control sequences out of 15000+200000
  27526 words of font info for 110 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1257,7 +1260,7 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (17 pages, 2570039 bytes).
+Output written on ProjetoCabeamento.pdf (17 pages, 2570756 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
