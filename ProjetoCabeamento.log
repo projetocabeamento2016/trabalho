@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  25 JUL 2016 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  25 JUL 2016 21:32
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1153,19 +1153,25 @@ File: keystone1.jpg Graphic file (type jpg)
 <use keystone1.jpg>
 Package pdftex.def Info: keystone1.jpg used on input line 294.
 (pdftex.def)             Requested size: 101.62943pt x 97.11256pt.
+ <espelho1.jpg, id=36, 109.91063pt x 95.6072pt>
+File: espelho1.jpg Graphic file (type jpg)
+
+<use espelho1.jpg>
+Package pdftex.def Info: espelho1.jpg used on input line 310.
+(pdftex.def)             Requested size: 109.91034pt x 95.60695pt.
  [7 <./fig1.png>] [8 <./planta_atual2.jpg>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 314--319
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 331--336
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
 
-
-Overfull \hbox (3.18896pt too wide) in paragraph at lines 328--329
+[9 <./keystone1.jpg> <./espelho1.jpg>]
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 345--346
 []\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
 
-[9 <./keystone1.jpg>] (tab_horario.tex
+(tab_horario.tex
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 1.
@@ -1174,7 +1180,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 14.
 
-) [10] (ProjetoCabeamento.bbl
+) [10] [11] (ProjetoCabeamento.bbl
 
 Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              You've used the KOMA-Script implementation of \@ssect
@@ -1183,35 +1189,39 @@ Class scrartcl Warning: incompatible usage of \@ssect detected.
 (scrartcl)              This could result in several error messages on input li
 ne 1.
 
-[11]) (tab2.tex)
+) (tab2.tex
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [12]
 File: fig1.png Graphic file (type png)
  <use fig1.png>
-Package pdftex.def Info: fig1.png used on input line 421.
+Package pdftex.def Info: fig1.png used on input line 438.
 (pdftex.def)             Requested size: 455.24417pt x 317.02682pt.
- <fig2.png, id=56, 214.8025pt x 516.93124pt>
+ <fig2.png, id=60, 214.8025pt x 516.93124pt>
 File: fig2.png Graphic file (type png)
 
 <use fig2.png>
-Package pdftex.def Info: fig2.png used on input line 429.
+Package pdftex.def Info: fig2.png used on input line 446.
 (pdftex.def)             Requested size: 214.80197pt x 516.92998pt.
- <fig3.jpg, id=57, 533.5935pt x 361.35pt>
+ <fig3.jpg, id=61, 533.5935pt x 361.35pt>
 File: fig3.jpg Graphic file (type jpg)
  <use fig3.jpg>
-Package pdftex.def Info: fig3.jpg used on input line 438.
+Package pdftex.def Info: fig3.jpg used on input line 455.
 (pdftex.def)             Requested size: 672.24995pt x 455.24417pt.
 
 
 AED: lastpage setting LastPage
-[12] [13] [14 <./fig2.png>] [15 <./fig3.jpg>] (ProjetoCabeamento.aux)
+[13] [14 <./fig2.png>] [15 <./fig3.jpg>] (ProjetoCabeamento.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11483 strings out of 493335
- 182802 string characters out of 3139261
+ 11488 strings out of 493335
+ 182881 string characters out of 3139261
  499092 words of memory out of 3000000
- 14663 multiletter control sequences out of 15000+200000
+ 14667 multiletter control sequences out of 15000+200000
  27428 words of font info for 108 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1230,9 +1240,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (15 pages, 2494730 bytes).
+Output written on ProjetoCabeamento.pdf (15 pages, 2500965 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 29215 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 29220 words of extra memory for PDF output out of 29859 (max. 10000000)
 
