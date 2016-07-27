@@ -24,9 +24,3 @@
 \contentsline {subsection}{\numberline {8.3}Equipe de suporte}{13}
 \contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{13}
 \contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{13}
-\contentsline {section}{\numberline {10}Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{13}
-\contentsline {section}{\numberline {11}Elementos textuais - Alguns exemplos}{14}
-\contentsline {subsection}{\numberline {11.1}Colocar elementos em itens}{14}
-\contentsline {subsubsection}{\numberline {11.1.1}Uma sub se\IeC {\c c}ao de terceiro nivel}{14}
-\contentsline {subsection}{\numberline {11.2}Tabelas}{14}
-\contentsline {subsection}{\numberline {11.3}Figuras}{14}
