@@ -18,10 +18,9 @@
 \contentsline {subsection}{\numberline {5.5}Identifica\IeC {\c c}\IeC {\~a}o dos cabos}{9}
 \contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{10}
 \contentsline {section}{\numberline {7}Plano de certifica\IeC {\c c}\IeC {\~a}o}{11}
-\contentsline {section}{\numberline {8}Plano de manuten\IeC {\c c}\IeC {\~a}o}{12}
-\contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{12}
-\contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{13}
-\contentsline {subsection}{\numberline {8.3}Equipe de suporte}{13}
-\contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{13}
-\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{13}
-\contentsline {section}{\numberline {10}Imagens}{13}
+\contentsline {subsection}{\numberline {7.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{12}
+\contentsline {subsection}{\numberline {7.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{13}
+\contentsline {subsection}{\numberline {7.3}Equipe de suporte}{13}
+\contentsline {subsection}{\numberline {7.4}Plano de expans\IeC {\~a}o}{14}
+\contentsline {section}{\numberline {8}Or\IeC {\c c}amento}{15}
+\contentsline {section}{\numberline {9}Imagens}{15}
