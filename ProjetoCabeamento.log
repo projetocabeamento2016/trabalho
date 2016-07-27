@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  27 JUL 2016 10:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  27 JUL 2016 14:05
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1210,18 +1210,62 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 14.
 
-) [12] 
+) [12] <entrada_1.jpg, id=62, 447.17062pt x 563.10374pt>
+File: entrada_1.jpg Graphic file (type jpg)
+ <use entrada_1.jpg>
+Package pdftex.def Info: entrada_1.jpg used on input line 424.
+(pdftex.def)             Requested size: 447.16953pt x 563.10237pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<rack_1.jpg, id=63, 2472.98906pt x 1750.28906pt>
+File: rack_1.jpg Graphic file (type jpg)
+ <use rack_1.jpg>
+Package pdftex.def Info: rack_1.jpg used on input line 429.
+(pdftex.def)             Requested size: 2472.98305pt x 1750.2848pt.
+
+Overfull \hbox (2017.73888pt too wide) in paragraph at lines 429--430
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 1072.10162pt on input line 430.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<laboratorios_1.jpg, id=64, 451.6875pt x 548.0475pt>
+File: laboratorios_1.jpg Graphic file (type jpg)
+ <use laboratorios_1.jpg>
+Package pdftex.def Info: laboratorios_1.jpg used on input line 434.
+(pdftex.def)             Requested size: 451.68639pt x 548.04616pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<laboratorios_2.jpg, id=65, 450.18187pt x 548.0475pt>
+File: laboratorios_2.jpg Graphic file (type jpg)
+ <use laboratorios_2.jpg>
+Package pdftex.def Info: laboratorios_2.jpg used on input line 438.
+(pdftex.def)             Requested size: 450.18077pt x 548.04616pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 AED: lastpage setting LastPage
-[13] (ProjetoCabeamento.aux)
+[13] [14 <./entrada_1.jpg>] [15 <./rack_1.jpg>] [16 <./laboratorios_1.jpg>]
+[17 <./laboratorios_2.jpg>] (ProjetoCabeamento.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11463 strings out of 493335
- 182693 string characters out of 3139261
+ 11483 strings out of 493335
+ 183064 string characters out of 3139261
  499020 words of memory out of 3000000
- 14652 multiletter control sequences out of 15000+200000
+ 14668 multiletter control sequences out of 15000+200000
  25577 words of font info for 104 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1239,9 +1283,9 @@ KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
 onts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (13 pages, 803650 bytes).
+Output written on ProjetoCabeamento.pdf (17 pages, 1720959 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28713 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 28733 words of extra memory for PDF output out of 29859 (max. 10000000)
 
