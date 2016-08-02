@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  27 JUL 2016 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  2 AUG 2016 14:23
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1147,123 +1147,125 @@ File: fig1.png Graphic file (type png)
 <use fig1.png>
 Package pdftex.def Info: fig1.png used on input line 9.
 (pdftex.def)             Requested size: 121.65234pt x 84.715pt.
-) [7 <./fig1.png>] [8 <./planta_atual2.jpg>]
-<keystone1.jpg, id=45, 101.62968pt x 97.11281pt>
+)
+Underfull \hbox (badness 10000) in paragraph at lines 285--289
+
+ []
+
+[7 <./fig1.png>] [8 <./planta_atual2.jpg>] [9]
+<keystone1.jpg, id=49, 101.62968pt x 97.11281pt>
 File: keystone1.jpg Graphic file (type jpg)
  <use keystone1.jpg>
-Package pdftex.def Info: keystone1.jpg used on input line 296.
+Package pdftex.def Info: keystone1.jpg used on input line 333.
 (pdftex.def)             Requested size: 101.62943pt x 97.11256pt.
 
-<espelho1.jpg, id=46, 109.91063pt x 95.6072pt>
+<espelho1.jpg, id=50, 109.91063pt x 95.6072pt>
 File: espelho1.jpg Graphic file (type jpg)
  <use espelho1.jpg>
-Package pdftex.def Info: espelho1.jpg used on input line 312.
+Package pdftex.def Info: espelho1.jpg used on input line 349.
 (pdftex.def)             Requested size: 109.91034pt x 95.60695pt.
 
-<cabo_cat6_1.jpg, id=47, 259.97125pt x 157.58875pt>
+<cabo_cat6_1.jpg, id=51, 259.97125pt x 157.58875pt>
 File: cabo_cat6_1.jpg Graphic file (type jpg)
  <use cabo_cat6_1.jpg>
-Package pdftex.def Info: cabo_cat6_1.jpg used on input line 328.
+Package pdftex.def Info: cabo_cat6_1.jpg used on input line 365.
 (pdftex.def)             Requested size: 259.97061pt x 157.58835pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<patch_cord_cat6_1.jpg, id=48, 243.91125pt x 134.75343pt>
+[10 <./keystone1.jpg> <./espelho1.jpg>]
+<patch_cord_cat6_1.jpg, id=55, 243.91125pt x 134.75343pt>
 File: patch_cord_cat6_1.jpg Graphic file (type jpg)
 
 <use patch_cord_cat6_1.jpg>
-Package pdftex.def Info: patch_cord_cat6_1.jpg used on input line 342.
+Package pdftex.def Info: patch_cord_cat6_1.jpg used on input line 379.
 (pdftex.def)             Requested size: 243.91064pt x 134.7531pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9 <./keystone1.jpg> <./espelho1.jpg>]
-<rotulador_1.jpg, id=52, 155.83218pt x 212.29312pt>
+<rotulador_1.jpg, id=56, 155.83218pt x 212.29312pt>
 File: rotulador_1.jpg Graphic file (type jpg)
  <use rotulador_1.jpg>
-Package pdftex.def Info: rotulador_1.jpg used on input line 356.
+Package pdftex.def Info: rotulador_1.jpg used on input line 393.
 (pdftex.def)             Requested size: 155.8318pt x 212.2926pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10 <./cabo_cat6_1.jpg> <./patch_cord_cat6_1.jpg>]
-Overfull \hbox (84.47485pt too wide) in paragraph at lines 374--379
+[11 <./cabo_cat6_1.jpg> <./patch_cord_cat6_1.jpg>]
+Overfull \hbox (84.47485pt too wide) in paragraph at lines 411--416
 []\OT1/cmr/m/n/12 (-20) Segue uma relac~ao de fer-ra-men-tas: http://asana.com
 /, https://trello.com/, http://www.ganttproject.biz/,
  []
 
-
-Overfull \hbox (3.18896pt too wide) in paragraph at lines 389--390
+[12 <./rotulador_1.jpg>]
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 426--427
 []\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
 
-(tab_horario.tex) [11 <./rotulador_1.jpg>]
-<relat_1.jpg, id=59, 489.5088pt x 460.6008pt>
+(tab_horario.tex) <relat_1.jpg, id=63, 489.5088pt x 460.6008pt>
 File: relat_1.jpg Graphic file (type jpg)
- <use relat_1.jpg>
-Package pdftex.def Info: relat_1.jpg used on input line 404.
+
+<use relat_1.jpg>
+Package pdftex.def Info: relat_1.jpg used on input line 441.
 (pdftex.def)             Requested size: 489.5076pt x 460.59967pt.
 
-Overfull \hbox (34.26343pt too wide) in paragraph at lines 404--405
+Overfull \hbox (34.26343pt too wide) in paragraph at lines 441--442
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<relat_2.jpg, id=60, 576.2328pt x 598.3956pt>
+<relat_2.jpg, id=64, 576.2328pt x 598.3956pt>
 File: relat_2.jpg Graphic file (type jpg)
  <use relat_2.jpg>
-Package pdftex.def Info: relat_2.jpg used on input line 408.
+Package pdftex.def Info: relat_2.jpg used on input line 445.
 (pdftex.def)             Requested size: 576.23138pt x 598.39413pt.
 
-Overfull \hbox (120.98721pt too wide) in paragraph at lines 408--409
+Overfull \hbox (120.98721pt too wide) in paragraph at lines 445--446
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12] [13 <./relat_1.jpg>] [14 <./relat_2.jpg>]
-<entrada_1.jpg, id=71, 447.17062pt x 563.10374pt>
+[13] [14 <./relat_1.jpg>] [15 <./relat_2.jpg>]
+<entrada_1.jpg, id=75, 447.17062pt x 563.10374pt>
 File: entrada_1.jpg Graphic file (type jpg)
  <use entrada_1.jpg>
-Package pdftex.def Info: entrada_1.jpg used on input line 437.
+Package pdftex.def Info: entrada_1.jpg used on input line 474.
 (pdftex.def)             Requested size: 447.16953pt x 563.10237pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<rack_1.jpg, id=72, 481.8pt x 402.00188pt>
+<rack_1.jpg, id=76, 481.8pt x 402.00188pt>
 File: rack_1.jpg Graphic file (type jpg)
  <use rack_1.jpg>
-Package pdftex.def Info: rack_1.jpg used on input line 442.
+Package pdftex.def Info: rack_1.jpg used on input line 479.
 (pdftex.def)             Requested size: 481.79881pt x 402.00089pt.
 
-Overfull \hbox (26.55464pt too wide) in paragraph at lines 442--443
+Overfull \hbox (26.55464pt too wide) in paragraph at lines 479--480
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<laboratorios_1.jpg, id=73, 451.6875pt x 548.0475pt>
+<laboratorios_1.jpg, id=77, 451.6875pt x 548.0475pt>
 File: laboratorios_1.jpg Graphic file (type jpg)
  <use laboratorios_1.jpg>
-Package pdftex.def Info: laboratorios_1.jpg used on input line 447.
+Package pdftex.def Info: laboratorios_1.jpg used on input line 484.
 (pdftex.def)             Requested size: 451.68639pt x 548.04616pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<laboratorios_2.jpg, id=74, 450.18187pt x 548.0475pt>
+<laboratorios_2.jpg, id=78, 450.18187pt x 548.0475pt>
 File: laboratorios_2.jpg Graphic file (type jpg)
  <use laboratorios_2.jpg>
-Package pdftex.def Info: laboratorios_2.jpg used on input line 451.
+Package pdftex.def Info: laboratorios_2.jpg used on input line 488.
 (pdftex.def)             Requested size: 450.18077pt x 548.04616pt.
 
 
@@ -1271,17 +1273,17 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 AED: lastpage setting LastPage
-[15] [16 <./entrada_1.jpg>] [17 <./rack_1.jpg>] [18 <./laboratorios_1.jpg>]
-[19 <./laboratorios_2.jpg>] (ProjetoCabeamento.aux)
+[16] [17 <./entrada_1.jpg>] [18 <./rack_1.jpg>] [19 <./laboratorios_1.jpg>]
+[20 <./laboratorios_2.jpg>] (ProjetoCabeamento.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11495 strings out of 493335
- 183226 string characters out of 3139261
+ 11496 strings out of 493335
+ 183234 string characters out of 3139261
  500020 words of memory out of 3000000
- 14676 multiletter control sequences out of 15000+200000
+ 14677 multiletter control sequences out of 15000+200000
  25626 words of font info for 105 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,13n,77p,8830b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1294,14 +1296,15 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
 86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86
 )/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (19 pages, 3251494 bytes).
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvro8a.pfb>
+Output written on ProjetoCabeamento.pdf (20 pages, 3261147 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 140 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28743 words of extra memory for PDF output out of 29859 (max. 10000000)
 
