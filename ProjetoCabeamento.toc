@@ -19,9 +19,9 @@
 \contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{12}
 \contentsline {section}{\numberline {7}Implanta\IeC {\c c}\IeC {\~a}o}{12}
 \contentsline {section}{\numberline {8}Plano de certifica\IeC {\c c}\IeC {\~a}o}{12}
-\contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{13}
-\contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{14}
-\contentsline {subsection}{\numberline {8.3}Equipe de suporte}{14}
-\contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{14}
-\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{14}
-\contentsline {section}{\numberline {10}Imagens}{14}
+\contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{16}
+\contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{18}
+\contentsline {subsection}{\numberline {8.3}Equipe de suporte}{18}
+\contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{18}
+\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{18}
+\contentsline {section}{\numberline {10}Imagens}{18}
