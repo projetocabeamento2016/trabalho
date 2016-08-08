@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  8 AUG 2016 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  8 AUG 2016 11:22
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1350,11 +1350,17 @@ Overfull \hbox (26.55464pt too wide) in paragraph at lines 503--504
  [][] 
  []
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 <laboratorios_1.jpg, id=72, 451.6875pt x 548.0475pt>
 File: laboratorios_1.jpg Graphic file (type jpg)
  <use laboratorios_1.jpg>
 Package pdftex.def Info: laboratorios_1.jpg used on input line 508.
 (pdftex.def)             Requested size: 451.68639pt x 548.04616pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <laboratorios_2.jpg, id=73, 450.18187pt x 548.0475pt>
 File: laboratorios_2.jpg Graphic file (type jpg)
@@ -1363,16 +1369,10 @@ Package pdftex.def Info: laboratorios_2.jpg used on input line 512.
 (pdftex.def)             Requested size: 450.18077pt x 548.04616pt.
 
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 AED: lastpage setting LastPage
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [13] [14 <./topologia.jpg>] [15 <./keystone1.jpg> <./espelho1.jpg> <./cabo_cat6
 _1.jpg> <./patch_cord_cat6_1.jpg>] [16 <./rotulador_1.jpg> <./a1.jpg>] [17 <./a
 2.jpg> <./a3.jpg>] [18 <./a4.jpg> <./c1.jpg>] [19 <./c2.jpg>] [20 <./relat_1.jp
@@ -1406,7 +1406,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (26 pages, 8971346 bytes).
+Output written on ProjetoCabeamento.pdf (26 pages, 8971245 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
