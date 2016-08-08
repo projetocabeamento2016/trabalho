@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  8 AUG 2016 11:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  8 AUG 2016 11:18
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1334,7 +1334,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <entrada_1.jpg, id=70, 447.17062pt x 563.10374pt>
 File: entrada_1.jpg Graphic file (type jpg)
  <use entrada_1.jpg>
-Package pdftex.def Info: entrada_1.jpg used on input line 503.
+Package pdftex.def Info: entrada_1.jpg used on input line 498.
 (pdftex.def)             Requested size: 447.16953pt x 563.10237pt.
 
 
@@ -1343,23 +1343,23 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <rack_1.jpg, id=71, 481.8pt x 402.00188pt>
 File: rack_1.jpg Graphic file (type jpg)
  <use rack_1.jpg>
-Package pdftex.def Info: rack_1.jpg used on input line 508.
+Package pdftex.def Info: rack_1.jpg used on input line 503.
 (pdftex.def)             Requested size: 481.79881pt x 402.00089pt.
 
-Overfull \hbox (26.55464pt too wide) in paragraph at lines 508--509
+Overfull \hbox (26.55464pt too wide) in paragraph at lines 503--504
  [][] 
  []
 
 <laboratorios_1.jpg, id=72, 451.6875pt x 548.0475pt>
 File: laboratorios_1.jpg Graphic file (type jpg)
  <use laboratorios_1.jpg>
-Package pdftex.def Info: laboratorios_1.jpg used on input line 513.
+Package pdftex.def Info: laboratorios_1.jpg used on input line 508.
 (pdftex.def)             Requested size: 451.68639pt x 548.04616pt.
 
 <laboratorios_2.jpg, id=73, 450.18187pt x 548.0475pt>
 File: laboratorios_2.jpg Graphic file (type jpg)
  <use laboratorios_2.jpg>
-Package pdftex.def Info: laboratorios_2.jpg used on input line 517.
+Package pdftex.def Info: laboratorios_2.jpg used on input line 512.
 (pdftex.def)             Requested size: 450.18077pt x 548.04616pt.
 
 
@@ -1406,7 +1406,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (26 pages, 8972301 bytes).
+Output written on ProjetoCabeamento.pdf (26 pages, 8971445 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
