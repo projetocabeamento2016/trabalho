@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  6 AUG 2016 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.5)  8 AUG 2016 11:14
 entering extended mode
 **./ProjetoCabeamento.tex
 (ProjetoCabeamento.tex
@@ -1127,30 +1127,30 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 <planta_atual2.jpg, id=32, 490.9542pt x 903.375pt>
 File: planta_atual2.jpg Graphic file (type jpg)
  <use planta_atual2.jpg>
-Package pdftex.def Info: planta_atual2.jpg used on input line 268.
+Package pdftex.def Info: planta_atual2.jpg used on input line 273.
 (pdftex.def)             Requested size: 490.95299pt x 903.3728pt.
 
-Overfull \hbox (35.70882pt too wide) in paragraph at lines 268--269
+Overfull \hbox (35.70882pt too wide) in paragraph at lines 273--274
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 225.18962pt on input line 269.
+LaTeX Warning: Float too large for page by 225.18962pt on input line 274.
 
 <topologia.jpg, id=33, 354.8457pt x 705.1143pt>
 File: topologia.jpg Graphic file (type jpg)
  <use topologia.jpg>
-Package pdftex.def Info: topologia.jpg used on input line 275.
+Package pdftex.def Info: topologia.jpg used on input line 280.
 (pdftex.def)             Requested size: 354.84482pt x 705.11258pt.
 
 
-LaTeX Warning: Float too large for page by 26.9294pt on input line 276.
+LaTeX Warning: Float too large for page by 26.9294pt on input line 281.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--283
+Underfull \hbox (badness 10000) in paragraph at lines 284--288
 
  []
 
@@ -1158,29 +1158,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--283
 File: keystone1.jpg Graphic file (type jpg)
 
 <use keystone1.jpg>
-Package pdftex.def Info: keystone1.jpg used on input line 327.
+Package pdftex.def Info: keystone1.jpg used on input line 332.
 (pdftex.def)             Requested size: 101.62943pt x 97.11256pt.
- <espelho1.jpg, id=45, 109.91063pt x 95.6072pt>
+ [9] <espelho1.jpg, id=48, 109.91063pt x 95.6072pt>
 File: espelho1.jpg Graphic file (type jpg)
 
 <use espelho1.jpg>
-Package pdftex.def Info: espelho1.jpg used on input line 343.
+Package pdftex.def Info: espelho1.jpg used on input line 348.
 (pdftex.def)             Requested size: 109.91034pt x 95.60695pt.
- <cabo_cat6_1.jpg, id=46, 259.97125pt x 157.58875pt>
+ <cabo_cat6_1.jpg, id=49, 259.97125pt x 157.58875pt>
 File: cabo_cat6_1.jpg Graphic file (type jpg)
 
 <use cabo_cat6_1.jpg>
-Package pdftex.def Info: cabo_cat6_1.jpg used on input line 359.
+Package pdftex.def Info: cabo_cat6_1.jpg used on input line 364.
 (pdftex.def)             Requested size: 259.97061pt x 157.58835pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] <patch_cord_cat6_1.jpg, id=50, 243.91125pt x 134.75343pt>
+<patch_cord_cat6_1.jpg, id=50, 243.91125pt x 134.75343pt>
 File: patch_cord_cat6_1.jpg Graphic file (type jpg)
 
 <use patch_cord_cat6_1.jpg>
-Package pdftex.def Info: patch_cord_cat6_1.jpg used on input line 373.
+Package pdftex.def Info: patch_cord_cat6_1.jpg used on input line 378.
 (pdftex.def)             Requested size: 243.91064pt x 134.7531pt.
 
 
@@ -1189,7 +1189,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <rotulador_1.jpg, id=51, 155.83218pt x 212.29312pt>
 File: rotulador_1.jpg Graphic file (type jpg)
  <use rotulador_1.jpg>
-Package pdftex.def Info: rotulador_1.jpg used on input line 387.
+Package pdftex.def Info: rotulador_1.jpg used on input line 392.
 (pdftex.def)             Requested size: 155.8318pt x 212.2926pt.
 
 
@@ -1198,10 +1198,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <a1.jpg, id=52, 461.5644pt x 99.2508pt>
 File: a1.jpg Graphic file (type jpg)
  <use a1.jpg>
-Package pdftex.def Info: a1.jpg used on input line 400.
+Package pdftex.def Info: a1.jpg used on input line 405.
 (pdftex.def)             Requested size: 461.56328pt x 99.25053pt.
 
-Overfull \hbox (6.3191pt too wide) in paragraph at lines 400--401
+Overfull \hbox (6.3191pt too wide) in paragraph at lines 405--406
  [][] 
  []
 
@@ -1211,10 +1211,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <a2.jpg, id=53, 483.7272pt x 357.4956pt>
 File: a2.jpg Graphic file (type jpg)
  <use a2.jpg>
-Package pdftex.def Info: a2.jpg used on input line 405.
+Package pdftex.def Info: a2.jpg used on input line 410.
 (pdftex.def)             Requested size: 483.72601pt x 357.49472pt.
 
-Overfull \hbox (28.48184pt too wide) in paragraph at lines 405--406
+Overfull \hbox (28.48184pt too wide) in paragraph at lines 410--411
  [][] 
  []
 
@@ -1224,18 +1224,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <a3.jpg, id=54, 463.4916pt x 112.7412pt>
 File: a3.jpg Graphic file (type jpg)
  <use a3.jpg>
-Package pdftex.def Info: a3.jpg used on input line 410.
-(pdftex.def)             Requested size: 463.49045pt x 112.7409pt.
-
-Overfull \hbox (8.24628pt too wide) in paragraph at lines 410--411
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: a3.jpg Graphic file (type jpg)
-<use a3.jpg>
 Package pdftex.def Info: a3.jpg used on input line 415.
 (pdftex.def)             Requested size: 463.49045pt x 112.7409pt.
 
@@ -1246,13 +1234,25 @@ Overfull \hbox (8.24628pt too wide) in paragraph at lines 415--416
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+File: a3.jpg Graphic file (type jpg)
+<use a3.jpg>
+Package pdftex.def Info: a3.jpg used on input line 420.
+(pdftex.def)             Requested size: 463.49045pt x 112.7409pt.
+
+Overfull \hbox (8.24628pt too wide) in paragraph at lines 420--421
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 <a4.jpg, id=55, 467.346pt x 95.3964pt>
 File: a4.jpg Graphic file (type jpg)
  <use a4.jpg>
-Package pdftex.def Info: a4.jpg used on input line 420.
+Package pdftex.def Info: a4.jpg used on input line 425.
 (pdftex.def)             Requested size: 467.34485pt x 95.39613pt.
 
-Overfull \hbox (12.10068pt too wide) in paragraph at lines 420--421
+Overfull \hbox (12.10068pt too wide) in paragraph at lines 425--426
  [][] 
  []
 
@@ -1262,10 +1262,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <c1.jpg, id=56, 508.299pt x 425.9112pt>
 File: c1.jpg Graphic file (type jpg)
  <use c1.jpg>
-Package pdftex.def Info: c1.jpg used on input line 425.
+Package pdftex.def Info: c1.jpg used on input line 430.
 (pdftex.def)             Requested size: 508.29774pt x 425.91014pt.
 
-Overfull \hbox (53.05357pt too wide) in paragraph at lines 425--426
+Overfull \hbox (53.05357pt too wide) in paragraph at lines 430--431
  [][] 
  []
 
@@ -1275,10 +1275,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <c2.jpg, id=57, 845.0772pt x 597.1911pt>
 File: c2.jpg Graphic file (type jpg)
  <use c2.jpg>
-Package pdftex.def Info: c2.jpg used on input line 431.
+Package pdftex.def Info: c2.jpg used on input line 436.
 (pdftex.def)             Requested size: 845.07513pt x 597.18965pt.
 
-Overfull \hbox (389.83096pt too wide) in paragraph at lines 431--432
+Overfull \hbox (389.83096pt too wide) in paragraph at lines 436--437
  [][] 
  []
 
@@ -1286,7 +1286,7 @@ Overfull \hbox (389.83096pt too wide) in paragraph at lines 431--432
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10]
-Overfull \hbox (3.18896pt too wide) in paragraph at lines 442--443
+Overfull \hbox (3.18896pt too wide) in paragraph at lines 447--448
 []\OT1/cmr/bx/n/12 Return Loss (perda de re-torno): \OT1/cmr/m/n/12 (-20) Re-fl
 ex~oes cau-sadas por anoma-lias na imped^ancia
  []
@@ -1295,20 +1295,20 @@ ex~oes cau-sadas por anoma-lias na imped^ancia
 File: relat_1.jpg Graphic file (type jpg)
 
 <use relat_1.jpg>
-Package pdftex.def Info: relat_1.jpg used on input line 453.
+Package pdftex.def Info: relat_1.jpg used on input line 458.
 (pdftex.def)             Requested size: 489.5076pt x 460.59967pt.
 
-Overfull \hbox (34.26343pt too wide) in paragraph at lines 453--454
+Overfull \hbox (34.26343pt too wide) in paragraph at lines 458--459
  [][] 
  []
 
 <relat_2.jpg, id=62, 576.2328pt x 598.3956pt>
 File: relat_2.jpg Graphic file (type jpg)
  <use relat_2.jpg>
-Package pdftex.def Info: relat_2.jpg used on input line 457.
+Package pdftex.def Info: relat_2.jpg used on input line 462.
 (pdftex.def)             Requested size: 576.23138pt x 598.39413pt.
 
-Overfull \hbox (120.98721pt too wide) in paragraph at lines 457--458
+Overfull \hbox (120.98721pt too wide) in paragraph at lines 462--463
  [][] 
  []
 
@@ -1318,48 +1318,48 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11] <orcamento.jpg, id=66, 510.9489pt x 373.8768pt>
+[11] [12] <orcamento.jpg, id=69, 510.9489pt x 373.8768pt>
 File: orcamento.jpg Graphic file (type jpg)
  <use orcamento.jpg>
-Package pdftex.def Info: orcamento.jpg used on input line 485.
+Package pdftex.def Info: orcamento.jpg used on input line 490.
 (pdftex.def)             Requested size: 510.94765pt x 373.87589pt.
 
-Overfull \hbox (55.70348pt too wide) in paragraph at lines 485--486
+Overfull \hbox (55.70348pt too wide) in paragraph at lines 490--491
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<entrada_1.jpg, id=67, 447.17062pt x 563.10374pt>
+<entrada_1.jpg, id=70, 447.17062pt x 563.10374pt>
 File: entrada_1.jpg Graphic file (type jpg)
  <use entrada_1.jpg>
-Package pdftex.def Info: entrada_1.jpg used on input line 498.
+Package pdftex.def Info: entrada_1.jpg used on input line 503.
 (pdftex.def)             Requested size: 447.16953pt x 563.10237pt.
- [12]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <rack_1.jpg, id=71, 481.8pt x 402.00188pt>
 File: rack_1.jpg Graphic file (type jpg)
  <use rack_1.jpg>
-Package pdftex.def Info: rack_1.jpg used on input line 503.
+Package pdftex.def Info: rack_1.jpg used on input line 508.
 (pdftex.def)             Requested size: 481.79881pt x 402.00089pt.
 
-Overfull \hbox (26.55464pt too wide) in paragraph at lines 503--504
+Overfull \hbox (26.55464pt too wide) in paragraph at lines 508--509
  [][] 
  []
 
 <laboratorios_1.jpg, id=72, 451.6875pt x 548.0475pt>
 File: laboratorios_1.jpg Graphic file (type jpg)
  <use laboratorios_1.jpg>
-Package pdftex.def Info: laboratorios_1.jpg used on input line 508.
+Package pdftex.def Info: laboratorios_1.jpg used on input line 513.
 (pdftex.def)             Requested size: 451.68639pt x 548.04616pt.
 
 <laboratorios_2.jpg, id=73, 450.18187pt x 548.0475pt>
 File: laboratorios_2.jpg Graphic file (type jpg)
  <use laboratorios_2.jpg>
-Package pdftex.def Info: laboratorios_2.jpg used on input line 512.
+Package pdftex.def Info: laboratorios_2.jpg used on input line 517.
 (pdftex.def)             Requested size: 450.18077pt x 548.04616pt.
 
 
@@ -1384,11 +1384,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 11522 strings out of 493335
- 183563 string characters out of 3139261
+ 11528 strings out of 493335
+ 183607 string characters out of 3139261
  505012 words of memory out of 3000000
  14701 multiletter control sequences out of 15000+200000
- 25577 words of font info for 104 fonts, out of 3000000 for 9000
+ 25724 words of font info for 107 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,11n,77p,8830b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
@@ -1406,7 +1406,7 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
 s/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
 /urw/helvetic/uhvro8a.pfb>
-Output written on ProjetoCabeamento.pdf (26 pages, 8971341 bytes).
+Output written on ProjetoCabeamento.pdf (26 pages, 8972301 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

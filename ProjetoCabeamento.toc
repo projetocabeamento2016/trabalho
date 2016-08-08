@@ -14,15 +14,15 @@
 \contentsline {subsection}{\numberline {5.1}Estado atual}{7}
 \contentsline {subsection}{\numberline {5.2}Topologia}{7}
 \contentsline {subsection}{\numberline {5.3}Encaminhamento}{7}
-\contentsline {subsection}{\numberline {5.4}Memorial descritivo}{9}
+\contentsline {subsection}{\numberline {5.4}Memorial descritivo}{10}
 \contentsline {subsection}{\numberline {5.5}Identifica\IeC {\c c}\IeC {\~a}o dos cabos}{10}
-\contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{10}
-\contentsline {section}{\numberline {7}Implanta\IeC {\c c}\IeC {\~a}o}{10}
-\contentsline {section}{\numberline {8}Plano de certifica\IeC {\c c}\IeC {\~a}o}{10}
+\contentsline {section}{\numberline {6}Implanta\IeC {\c c}\IeC {\~a}o}{11}
+\contentsline {section}{\numberline {7}Implanta\IeC {\c c}\IeC {\~a}o}{11}
+\contentsline {section}{\numberline {8}Plano de certifica\IeC {\c c}\IeC {\~a}o}{11}
 \contentsline {subsection}{\numberline {8.1}Manuten\IeC {\c c}\IeC {\~a}o corretiva}{12}
 \contentsline {subsection}{\numberline {8.2}Manuten\IeC {\c c}\IeC {\~a}o preventiva}{12}
 \contentsline {subsection}{\numberline {8.3}Equipe de suporte}{12}
 \contentsline {subsection}{\numberline {8.4}Plano de expans\IeC {\~a}o}{12}
-\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{12}
-\contentsline {section}{\numberline {10}Imagens}{12}
+\contentsline {section}{\numberline {9}Or\IeC {\c c}amento}{13}
+\contentsline {section}{\numberline {10}Imagens}{13}
 \contentsline {section}{\numberline {11}Imagens}{13}
